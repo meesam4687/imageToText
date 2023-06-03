@@ -1,3 +1,5 @@
 .replit
 replit.nix
 image.jpg
+package-lock.json
+node_modules
