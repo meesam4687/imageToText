@@ -1,13 +1,13 @@
 {
-  "name": "nodejs",
+  "name": "img-text",
   "version": "1.0.0",
-  "description": "",
+  "description": "Convert images into black and white text",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "meesam4687",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
